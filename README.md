@@ -1,2 +1,2 @@
 # Titanic-Sinking
-Kaggles Titanic Sinking Prediction Problem Submission
+This Python notebook contains solution of Titanic Sinking Problem of HackerEarth
